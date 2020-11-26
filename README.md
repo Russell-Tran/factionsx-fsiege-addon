@@ -1,4 +1,4 @@
-# FWild-Addon-Example
+# factionsx-fsiege-addon
 
-This is a barebones `java` addon for FactionsX, and is what your source code should look like after completing the guide on the Addon Wiki.<br/>
+Addon (https://wiki.savagelabs.net/factions/addons) to the FactionsX Minecraft server plugin that enables a new form of gameplay. <br/>
 Addon Creation Guide: https://wiki.savagelabs.net/en/factions/addons
